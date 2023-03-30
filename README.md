@@ -5,13 +5,13 @@
 2. Choose a development environment: Select the programming languages, tools, and libraries you will use to build your OS. Typically, OS development involves a              combination of low-level languages like Assembly and high-level languages like C or Rust.
 
 3. Learn OS fundamentals: Study the essential concepts related to OS development, including:
-    *Process management
-    *Memory management
-    *File systems
-    *Input/output (I/O) and device drivers
-    *Inter-process communication (IPC)
-    *Scheduling and synchronization
-    *Networking
+    -Process management
+    -Memory management
+    -File systems
+    -Input/output (I/O) and device drivers
+    -Inter-process communication (IPC)
+    -Scheduling and synchronization
+    -Networking
 
 4. Develop a bootloader: The bootloader is the first piece of software that runs when a computer starts. It initializes hardware, loads the kernel into memory, and jumps    to the kernel's entry point. Study existing bootloaders, such as GRUB, to understand how they work.
 
