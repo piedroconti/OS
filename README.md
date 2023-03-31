@@ -82,5 +82,7 @@ SerenityOS (https://github.com/SerenityOS/serenity) -Another hobbyist OS project
 Video Lectures and Courses:
 
 Operating Systems and System Programming (UC Berkeley) - CS 162 (https://inst.eecs.berkeley.edu/~cs162/sp19/) - A complete undergraduate course on operating systems, including video lectures and assignments.
+
 Operating System Engineering (MIT) - 6.828 (https://pdos.csail.mit.edu/6.828/2021/schedule.html) - A graduate-level course on OS engineering, focused on building an exokernel-based OS.
+
 Introduction to Operating Systems (Georgia Tech) - CS 8803 (https://www.udacity.com/course/introduction-to-operating-systems--ud923) - An online course by Udacity, covering the essential concepts of operating systems.
