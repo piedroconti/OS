@@ -69,10 +69,16 @@ Books:
 Websites and Tutorials:
 
 OSDev.org (https://wiki.osdev.org) -A comprehensive wiki and forum for OS development.
+
 JamesM's Kernel Development Tutorials (http://www.jamesmolloy.co.uk/tutorial_html) -A set of tutorials on creating a basic x86 kernel.
+
 BrokenThorn's OS Development Series (http://www.brokenthorn.com/Resources/OSDevIndex.html) -Another set of tutorials covering a wide range of OS development topics.
+
 ToaruOS (https://github.com/klange/toaruos) -A hobbyist OS project with well-documented source code.
+
 SerenityOS (https://github.com/SerenityOS/serenity) -Another hobbyist OS project with clean, readable source code.
+
+
 Video Lectures and Courses:
 
 Operating Systems and System Programming (UC Berkeley) - CS 162 (https://inst.eecs.berkeley.edu/~cs162/sp19/) - A complete undergraduate course on operating systems, including video lectures and assignments.
