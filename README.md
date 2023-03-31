@@ -18,12 +18,12 @@
 5. Write a basic kernel: Develop a minimal kernel that includes basic features like memory management, process management, and I/O. You can start with a "Hello, World!" kernel and gradually expand its functionality.
 
 6. Implement key OS components: Once you have a basic kernel, you'll need to build the essential components of your operating system. These include:
-    *Process scheduler: This component manages the allocation of CPU time to processes and threads. Implement a scheduling algorithm (e.g., Round Robin, Priority           Scheduling, or Multilevel Feedback Queue) to manage process execution.
-    *Memory manager: Implement a memory management scheme (e.g., paging, segmentation, or both) to allocate and deallocate memory for processes.
-    *File system: Design and implement a file system for your OS that supports essential operations like creating, reading, writing, and deleting files and                  directories.
-    *Device drivers: Write device drivers to enable communication between the OS and various hardware devices (e.g., display, keyboard, mouse, disk drives).
-    *System calls: Implement a set of system calls (APIs) that allow user applications to request OS services (e.g., file I/O, process creation).
-    *IPC mechanisms: Develop inter-process communication mechanisms (e.g., pipes, message queues, shared memory) to enable data exchange between processes.
+    * Process scheduler: This component manages the allocation of CPU time to processes and threads. Implement a scheduling algorithm (e.g., Round Robin, Priority           Scheduling, or Multilevel Feedback Queue) to manage process execution.
+    * Memory manager: Implement a memory management scheme (e.g., paging, segmentation, or both) to allocate and deallocate memory for processes.
+    * File system: Design and implement a file system for your OS that supports essential operations like creating, reading, writing, and deleting files and                  directories.
+    * Device drivers: Write device drivers to enable communication between the OS and various hardware devices (e.g., display, keyboard, mouse, disk drives).
+    * System calls: Implement a set of system calls (APIs) that allow user applications to request OS services (e.g., file I/O, process creation).
+    * IPC mechanisms: Develop inter-process communication mechanisms (e.g., pipes, message queues, shared memory) to enable data exchange between processes.
   
 7. Design a user interface: Design a user interface (UI) for your OS, which can be text-based (command-line interface) or graphical (graphical user interface). For a      graphical UI, you'll need to create a windowing system and develop libraries to support graphical applications.
 
@@ -68,11 +68,11 @@ Books:
 "Operating Systems: Three Easy Pieces" by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (free online)
 Websites and Tutorials:
 
-OSDev.org (https://wiki.osdev.org) - A comprehensive wiki and forum for OS development.
-JamesM's Kernel Development Tutorials (http://www.jamesmolloy.co.uk/tutorial_html) - A set of tutorials on creating a basic x86 kernel.
-BrokenThorn's OS Development Series (http://www.brokenthorn.com/Resources/OSDevIndex.html) - Another set of tutorials covering a wide range of OS development topics.
-ToaruOS (https://github.com/klange/toaruos) - A hobbyist OS project with well-documented source code.
-SerenityOS (https://github.com/SerenityOS/serenity) - Another hobbyist OS project with clean, readable source code.
+OSDev.org (https://wiki.osdev.org) -A comprehensive wiki and forum for OS development.
+JamesM's Kernel Development Tutorials (http://www.jamesmolloy.co.uk/tutorial_html) -A set of tutorials on creating a basic x86 kernel.
+BrokenThorn's OS Development Series (http://www.brokenthorn.com/Resources/OSDevIndex.html) -Another set of tutorials covering a wide range of OS development topics.
+ToaruOS (https://github.com/klange/toaruos) -A hobbyist OS project with well-documented source code.
+SerenityOS (https://github.com/SerenityOS/serenity) -Another hobbyist OS project with clean, readable source code.
 Video Lectures and Courses:
 
 Operating Systems and System Programming (UC Berkeley) - CS 162 (https://inst.eecs.berkeley.edu/~cs162/sp19/) - A complete undergraduate course on operating systems, including video lectures and assignments.
